@@ -1,0 +1,22 @@
+what are axios?
+
+it is an http library or an http client to make request to your backend or other third party api to fetch data
+it is somewhat similar to the fetch api but it has great syntax make it easy to use.
+
+basically it helps you to communicate with your backend .
+
+
+to use axios:-
+
+inside the function 
+
+{
+    axios({
+        method:-you want to use like:-"get",
+        url :- that you want to fetch
+    }).then:-cause it is going to return a promise
+}
+
+url= base url/route
+
+route is like a path what you put here will tell the server/backend where you want to go/what is exactly you are requesting for
