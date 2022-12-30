@@ -78,7 +78,7 @@ function customHeaders() {
     const config = {
         headers: {
             'content-type': 'application/json',
-            authorization: 'himanshu gupta'
+            authorization: 'shubham solanki'
         }
     }
 
